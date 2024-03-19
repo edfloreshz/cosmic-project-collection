@@ -1,0 +1,16 @@
+Applets(
+  list: [
+    (
+      name: "cosmic-applet-apps-menu",
+      description: "Category based menu for apps.",
+      repo: "https://github.com/leb-kuchen/cosmic-applet-apps-menu",
+      image: "https://preview.redd.it/here-there-are-cosmics-version-of-gnomes-popular-extension-v0-6q8jqqpeh9pc1.png?width=640&crop=smart&auto=webp&s=0f7f5e22e17ac565bc2a5365592da084f3f411cd"
+    ),
+    (
+      name: "cosmic-applet-places-status-indicator",
+      description: "Menu for quickly navigating places in the system",
+      repo: "https://github.com/leb-kuchen/cosmic-applet-places-status-indicator",
+      image: "https://preview.redd.it/here-there-are-cosmics-version-of-gnomes-popular-extension-v0-1vmlqqpeh9pc1.png?width=1920&format=png&auto=webp&s=fdfdffdb3e515a52651ab4e4c7496fc2ef686f7b"
+    ),
+  ]
+)
