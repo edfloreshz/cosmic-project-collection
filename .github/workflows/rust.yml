@@ -22,4 +22,3 @@ jobs:
     - name: Build
       run: cargo run --verbose
     - uses: stefanzweifel/git-auto-commit-action@v5
-    - name: Commit
