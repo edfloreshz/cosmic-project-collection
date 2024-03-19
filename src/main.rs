@@ -14,7 +14,7 @@ struct Applications {
 }
 
 fn main() -> anyhow::Result<()> {
-    let data = include_str!("../data/applications.ron");
+    let data = include_str!("../applications.ron");
     let mut readme = String::new();
     let applications: Applications = ron::from_str(data)?;
 
@@ -30,7 +30,7 @@ fn main() -> anyhow::Result<()> {
     }
 
     readme.push_str("## How to add your applet?\n");
-    readme.push_str("To add your applet to this list, please open a pull request with your applet added to the `applets.ron` file and an image of your applet in the `img` folder named after your applet.\n");
+    readme.push_str("To add your applet to this list, please open a pull request with your applet added to the `applications.ron` file.\n");
 
     std::fs::write("README.md", readme)?;
 
