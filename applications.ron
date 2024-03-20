@@ -4,7 +4,7 @@ Applications(
       name: "cosmic-todo",
       description: "A simple to-do app for the COSMIC desktop.",
       repo: "https://github.com/edfloreshz/cosmic-todo",
-      image: "https://raw.githubusercontent.com/edfloreshz/cosmic-todo/main/res/screenshots/window.png"
+      image: "https://raw.githubusercontent.com/edfloreshz/cosmic-todo/main/res/screenshots/window-light.png"
     ),
     (
       name: "fan-control",
