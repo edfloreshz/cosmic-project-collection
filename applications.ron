@@ -3,8 +3,8 @@ Applications(
     (
       name: "cosmic-tasks",
       description: "A simple task management application for the COSMIC desktop.",
-      repo: "https://github.com/edfloreshz/cosmic-todo",
-      image: "https://raw.githubusercontent.com/edfloreshz/cosmic-todo/main/res/screenshots/window-light.png"
+      repo: "https://github.com/edfloreshz/cosmic-tasks",
+      image: "https://raw.githubusercontent.com/edfloreshz/cosmic-tasks/main/res/screenshots/window-light.png"
     ),
     (
       name: "fan-control",
