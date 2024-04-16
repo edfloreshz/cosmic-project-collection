@@ -16,7 +16,7 @@ Applets(
       name: "cosmic-clipboard-manager",
       description: "Clipboard manager for COSMIC",
       repo: "https://github.com/wiiznokes/cosmic-clipboard-manager",
-      image: "https://github.com/wiiznokes/cosmic-clipboard-manager/assets/78230769/db504da6-38d8-460e-afef-27ba5fa6101c"
+      image: "https://media.githubusercontent.com/media/wiiznokes/cosmic-clipboard-manager/master/resources/screenshots/main_popup.png"
     ),
   ]
 )
