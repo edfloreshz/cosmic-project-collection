@@ -11,6 +11,12 @@ Applications(
       description: "Control your fans with different behaviors.",
       repo: "https://github.com/wiiznokes/fan-control",
       image: "https://github.com/wiiznokes/fan-control/assets/78230769/cdc30753-4186-47a1-ba49-11af3868380f"
+    ),
+    (
+      name: "cosmic-wam",
+      description: "Web App Manager for Cosmic desktop written with love and libcosmic. Allow you to simply create web applications from given url working inside separate window of your browser of choice.",
+      repo: "https://github.com/elevenhsoft/cosmic-wam",
+      image: "https://raw.githubusercontent.com/elevenhsoft/cosmic-wam/master/res/screenshots/window-light.png"
     )
   ]
 )
