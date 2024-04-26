@@ -18,5 +18,11 @@ Applets(
       repo: "https://github.com/wiiznokes/cosmic-clipboard-manager",
       image: "https://media.githubusercontent.com/media/wiiznokes/cosmic-clipboard-manager/master/resources/screenshots/main_popup.png"
     ),
+    (
+      name: "cosmic-applet-emoji-selector",
+      description: "Emoji selector",
+      repo: "https://github.com/leb-kuchen/cosmic-applet-emoji-selector",
+      image: "https://iili.io/JUazV7j.png"
+    ),
   ]
 )
