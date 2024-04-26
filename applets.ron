@@ -22,7 +22,7 @@ Applets(
       name: "cosmic-applet-emoji-selector",
       description: "Emoji selector",
       repo: "https://github.com/leb-kuchen/cosmic-applet-emoji-selector",
-      image: "https://private-user-images.githubusercontent.com/102472435/318251367-496eae10-a889-46c4-b802-08c0aa4df078.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTE4NzUzODIsIm5iZiI6MTcxMTg3NTA4MiwicGF0aCI6Ii8xMDI0NzI0MzUvMzE4MjUxMzY3LTQ5NmVhZTEwLWE4ODktNDZjNC1iODAyLTA4YzBhYTRkZjA3OC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMzMxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDMzMVQwODUxMjJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yYjFkMjQ3YmYyOGY1ZDU3MjFkZTYwODkyNDgxZjQyZDU3OWQyMjdhMTlmNjc3ODllMzdkNmVjMzY2NDVhZTczJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.g89NMutiJKeq9ytW4v3-9468BIYtPsuQ-t8koMVIufI"
+      image: "https://iili.io/JUazV7j.png"
     ),
   ]
 )
