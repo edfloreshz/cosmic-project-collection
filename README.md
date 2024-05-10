@@ -6,7 +6,7 @@ A collection of COSMIC projects developed by the community.
 |---|---|---|
 | [cosmic-tasks](https://github.com/edfloreshz/cosmic-tasks) | A simple task management application for the COSMIC desktop. | <img src="https://raw.githubusercontent.com/edfloreshz/cosmic-tasks/main/res/screenshots/window-light.png" alt="cosmic-tasks" width="200"/> |
 | [fan-control](https://github.com/wiiznokes/fan-control) | Control your fans with different behaviors. | <img src="https://media.githubusercontent.com/media/wiiznokes/fan-control/master/resource/screenshots/app.png" alt="fan-control" width="200"/> |
-| [cosmic-wam](https://github.com/elevenhsoft/cosmic-wam) | Web App Manager for Cosmic desktop written with love and libcosmic. Allow you to simply create web applications from given url working inside separate window of your browser of choice. | <img src="https://raw.githubusercontent.com/elevenhsoft/cosmic-wam/master/res/screenshots/window-light.png" alt="cosmic-wam" width="200"/> |
+| [cosmic-webapps](https://github.com/elevenhsoft/WebApps) | Web App Manager for Cosmic desktop written with love and libcosmic. Allow you to simply create web applications from given url working inside separate window of your browser of choice. | <img src="https://raw.githubusercontent.com/elevenhsoft/WebApps/0.3.5/res/screenshots/window-dark.png" alt="cosmic-webapps" width="200"/> |
 
 ## Applets
 | Name | Description | Image |
