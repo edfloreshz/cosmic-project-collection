@@ -17,6 +17,12 @@ Applications(
       description: "Web App Manager for Cosmic desktop written with love and libcosmic. Allow you to simply create web applications from given url working inside separate window of your browser of choice.",
       repo: "https://github.com/elevenhsoft/WebApps",
       image: "https://raw.githubusercontent.com/elevenhsoft/WebApps/0.3.5/res/screenshots/window-dark.png"
+    ),
+    (
+      name: "cosmic-color-picker",
+      description: "A color picker for COSMIC.",
+      repo: "https://github.com/PixelDoted/cosmic-color-picker",
+      image: "https://raw.githubusercontent.com/PixelDoted/cosmic-color-picker/main/preview.png"
     )
   ]
 )
