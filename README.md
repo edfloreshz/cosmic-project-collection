@@ -8,6 +8,7 @@ A collection of COSMIC projects developed by the community.
 | [fan-control](https://github.com/wiiznokes/fan-control) | Control your fans with different behaviors. | <img src="https://media.githubusercontent.com/media/wiiznokes/fan-control/master/resource/screenshots/app.png" alt="fan-control" width="200"/> |
 | [cosmic-webapps](https://github.com/elevenhsoft/WebApps) | Web App Manager for Cosmic desktop written with love and libcosmic. Allow you to simply create web applications from given url working inside separate window of your browser of choice. | <img src="https://raw.githubusercontent.com/elevenhsoft/WebApps/0.3.5/res/screenshots/window-dark.png" alt="cosmic-webapps" width="200"/> |
 | [cosmic-color-picker](https://github.com/PixelDoted/cosmic-color-picker) | A color picker for COSMIC. | <img src="https://raw.githubusercontent.com/PixelDoted/cosmic-color-picker/main/preview.png" alt="cosmic-color-picker" width="200"/> |
+| [cosmic-backups](https://github.com/ahoneybun/cosmic-backups) | A simple backup application using Rustic for the COSMIC desktop. | <img src="https://raw.githubusercontent.com/ahoneybun/cosmic-backups/main/res/screenshots/COSMIC-Backups-Dark.png" alt="cosmic-backups" width="200"/> |
 
 ## Applets
 | Name | Description | Image |
