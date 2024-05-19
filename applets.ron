@@ -24,5 +24,11 @@ Applets(
       repo: "https://github.com/leb-kuchen/cosmic-applet-emoji-selector",
       image: "https://iili.io/JUazV7j.png"
     ),
+    (
+      name: "cosmic-noise",
+      description: "Applet for playing background noise",
+      repo: "https://github.com/bq-wrongway/cosmic-noise",
+      image: ""
+    )
   ]
 )
