@@ -23,12 +23,6 @@ Applications(
       description: "A color picker for COSMIC.",
       repo: "https://github.com/PixelDoted/cosmic-color-picker",
       image: "https://raw.githubusercontent.com/PixelDoted/cosmic-color-picker/main/preview.png"
-    ),
-    (
-      name: "cosmic-backups",
-      description: "A simple backup application using Rustic for the COSMIC desktop.",
-      repo: "https://github.com/ahoneybun/cosmic-backups",
-      image: "https://raw.githubusercontent.com/ahoneybun/cosmic-backups/main/res/screenshots/COSMIC-Backups-Dark.png"
     )
   ]
 )
