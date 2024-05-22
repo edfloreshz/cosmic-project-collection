@@ -17,6 +17,7 @@ A collection of COSMIC projects developed by the community.
 | [cosmic-clipboard-manager](https://github.com/wiiznokes/cosmic-clipboard-manager) | Clipboard manager for COSMIC | <img src="https://media.githubusercontent.com/media/wiiznokes/cosmic-clipboard-manager/master/resources/screenshots/main_popup.png" alt="cosmic-clipboard-manager" width="200"/> |
 | [cosmic-applet-emoji-selector](https://github.com/leb-kuchen/cosmic-applet-emoji-selector) | Emoji selector | <img src="https://iili.io/JUazV7j.png" alt="cosmic-applet-emoji-selector" width="200"/> |
 | [cosmic-noise](https://github.com/bq-wrongway/cosmic-noise) | Applet for playing background noise | <img src="" alt="cosmic-noise" width="200"/> |
+| [cosmic-applet-ollama](https://github.com/elevenhsoft/cosmic-applet-ollama) | Applet for Ollama | <img src="https://github.com/elevenhsoft/cosmic-applet-ollama/blob/main/screenshots/chat.png" alt="cosmic-applet-ollama" width="200"/> |
 
 ## How to add your project?
 To add your project to this list, please open a pull request with your project added to the `applications.ron` or `applets.ron` file.
