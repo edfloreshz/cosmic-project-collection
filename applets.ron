@@ -29,6 +29,12 @@ Applets(
       description: "Applet for playing background noise",
       repo: "https://github.com/bq-wrongway/cosmic-noise",
       image: ""
+    ),
+    (
+      name: "cosmic-applet-ollama",
+      description: "Applet for Ollama",
+      repo: "https://github.com/elevenhsoft/cosmic-applet-ollama",
+      image: "https://github.com/elevenhsoft/cosmic-applet-ollama/blob/main/screenshots/chat.png"
     )
   ]
 )
