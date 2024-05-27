@@ -16,7 +16,7 @@ Applets(
       name: "cosmic-clipboard-manager",
       description: "Clipboard manager for COSMIC",
       repo: "https://github.com/wiiznokes/cosmic-clipboard-manager",
-      image: "https://media.githubusercontent.com/media/wiiznokes/cosmic-clipboard-manager/master/resources/screenshots/main_popup.png"
+      image: "https://media.githubusercontent.com/media/wiiznokes/cosmic-clipboard-manager/master/res/screenshots/main_popup.png"
     ),
     (
       name: "cosmic-applet-emoji-selector",
