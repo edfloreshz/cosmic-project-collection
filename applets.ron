@@ -35,6 +35,12 @@ Applets(
       description: "Applet for Ollama",
       repo: "https://github.com/elevenhsoft/cosmic-applet-ollama",
       image: "https://github.com/elevenhsoft/cosmic-applet-ollama/blob/main/screenshots/chat.png"
+    ),
+    (
+      name: "cosmic-ext-applet-external-monitor-brightness",
+      description: "External Monitor Brightness Applet for the COSMIC™ desktop",
+      repo: "https://github.com/maciekk64/cosmic-ext-applet-external-monitor-brightness",
+      image: "https://github.com/maciekk64/cosmic-ext-applet-external-monitor-brightness/blob/master/data/screenshot1.png"
     )
   ]
 )
