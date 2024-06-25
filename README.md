@@ -23,7 +23,7 @@ A collection of COSMIC projects developed by the community.
 ## Themes
 | Name | Description | Image |
 |---|---|---|
-| [cosmic-desktop](https://github.com/catppuccin/cosmic-desktop) | Soothing pastel theme for COSMIC Desktop Environment | <img src="https://raw.githubusercontent.com/catppuccin/cosmic-desktop/main/assets/preview.webp" alt="cosmic-desktop" width="200"/> |
+| [catppuccin](https://github.com/catppuccin/cosmic-desktop) | Soothing pastel theme for COSMIC Desktop Environment | <img src="https://raw.githubusercontent.com/catppuccin/cosmic-desktop/main/assets/preview.webp" alt="catppuccin" width="200"/> |
 
 ## How to add your project?
 To add your project to this list, please open a pull request with your project added to the `applications.ron` or `applets.ron` file.
