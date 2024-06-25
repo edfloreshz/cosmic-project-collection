@@ -3,7 +3,7 @@
 Themes(
   list: [
     (
-      name: "cosmic-desktop",
+      name: "catppuccin",
       description: "Soothing pastel theme for COSMIC Desktop Environment",
       repo: "https://github.com/catppuccin/cosmic-desktop",
       image: "https://raw.githubusercontent.com/catppuccin/cosmic-desktop/main/assets/preview.webp"
