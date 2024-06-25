@@ -39,9 +39,9 @@ Applets(
     ),
     (
       name: "cosmic-ext-applet-external-monitor-brightness",
-      description: "External Monitor Brightness Applet for the COSMIC™ desktop",
+      description: "Change brightness of external monitors via DDC/CI protocol",
       repo: "https://github.com/maciekk64/cosmic-ext-applet-external-monitor-brightness",
-      image: "https://raw.githubusercontent.com/maciekk64/cosmic-ext-applet-external-monitor-brightness/master/data/screenshot1.png"
+      image: "https://raw.githubusercontent.com/maciekk64/cosmic-ext-applet-external-monitor-brightness/master/res/screenshot1.png"
     )
   ]
 )
