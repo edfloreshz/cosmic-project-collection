@@ -20,5 +20,10 @@ A collection of COSMIC projects developed by the community.
 | [cosmic-applet-ollama](https://github.com/elevenhsoft/cosmic-applet-ollama) | Applet for Ollama | <img src="https://raw.githubusercontent.com/elevenhsoft/cosmic-ext-applet-ollama/main/screenshots/chat.png" alt="cosmic-applet-ollama" width="200"/> |
 | [cosmic-ext-applet-external-monitor-brightness](https://github.com/maciekk64/cosmic-ext-applet-external-monitor-brightness) | External Monitor Brightness Applet for the COSMIC™ desktop | <img src="https://raw.githubusercontent.com/maciekk64/cosmic-ext-applet-external-monitor-brightness/master/data/screenshot1.png" alt="cosmic-ext-applet-external-monitor-brightness" width="200"/> |
 
+## Themes
+| Name | Description | Image |
+|---|---|---|
+| [cosmic-desktop](https://github.com/catppuccin/cosmic-desktop) | Soothing pastel theme for COSMIC Desktop Environment | <img src="https://raw.githubusercontent.com/catppuccin/cosmic-desktop/main/assets/preview.webp" alt="cosmic-desktop" width="200"/> |
+
 ## How to add your project?
 To add your project to this list, please open a pull request with your project added to the `applications.ron` or `applets.ron` file.
