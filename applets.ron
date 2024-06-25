@@ -1,3 +1,5 @@
+#![enable(implicit_some)]
+
 Applets(
   list: [
     (
@@ -28,13 +30,18 @@ Applets(
       name: "cosmic-noise",
       description: "Applet for playing background noise",
       repo: "https://github.com/bq-wrongway/cosmic-noise",
-      image: ""
     ),
     (
       name: "cosmic-applet-ollama",
       description: "Applet for Ollama",
       repo: "https://github.com/elevenhsoft/cosmic-applet-ollama",
-      image: "https://github.com/elevenhsoft/cosmic-applet-ollama/blob/main/screenshots/chat.png"
+      image: "https://raw.githubusercontent.com/elevenhsoft/cosmic-ext-applet-ollama/main/screenshots/chat.png"
+    ),
+    (
+      name: "cosmic-ext-applet-external-monitor-brightness",
+      description: "External Monitor Brightness Applet for the COSMIC™ desktop",
+      repo: "https://github.com/maciekk64/cosmic-ext-applet-external-monitor-brightness",
+      image: "https://raw.githubusercontent.com/maciekk64/cosmic-ext-applet-external-monitor-brightness/master/data/screenshot1.png"
     )
   ]
 )
