@@ -1,11 +1,11 @@
-use serde::{Serialize, Deserialize};
+use serde::{Deserialize, Serialize};
 
 #[derive(Debug, Serialize, Deserialize)]
 struct Applet {
     name: String,
     description: String,
     repo: String,
-    image: String,
+    image: Option<String>,
 }
 
 #[derive(Debug, Serialize, Deserialize)]
@@ -18,7 +18,7 @@ struct Application {
     name: String,
     description: String,
     repo: String,
-    image: String,
+    image: Option<String>,
 }
 
 #[derive(Debug, Serialize, Deserialize)]
@@ -30,8 +30,8 @@ fn main() -> anyhow::Result<()> {
     let applications_data = include_str!("../applications.ron");
     let applets_data = include_str!("../applets.ron");
     let mut readme = String::new();
-    let applications: Applications = ron::from_str(applications_data)?;
-    let applets: Applets = ron::from_str(applets_data)?;
+    let applications: Applications = ron::from_str(applications_data).unwrap();
+    let applets: Applets = ron::from_str(applets_data).unwrap();
 
     readme.push_str("# COSMIC Project Collection\n");
     readme.push_str("A collection of COSMIC projects developed by the community.\n\n");
@@ -42,7 +42,23 @@ fn main() -> anyhow::Result<()> {
     readme.push_str("|---|---|---|\n");
 
     for app in applications.list {
-        let row = format!("| [{}]({}) | {} | <img src=\"{}\" alt=\"{}\" width=\"200\"/> |\n", app.name, app.repo, app.description, app.image, app.name);
+        let mut row = String::new();
+
+        row.push_str(&format!(
+            "| [{}]({}) | {} |",
+            app.name, app.repo, app.description
+        ));
+
+        match app.image {
+            Some(image) => {
+                row.push_str(&format!(
+                    " <img src=\"{}\" alt=\"{}\" width=\"200\"/> |\n",
+                    image, app.name
+                ));
+            }
+            None => row.push_str(" |\n"),
+        }
+
         readme.push_str(&row);
     }
 
@@ -52,7 +68,23 @@ fn main() -> anyhow::Result<()> {
     readme.push_str("|---|---|---|\n");
 
     for applet in applets.list {
-        let row = format!("| [{}]({}) | {} | <img src=\"{}\" alt=\"{}\" width=\"200\"/> |\n", applet.name, applet.repo, applet.description, applet.image, applet.name);
+        let mut row = String::new();
+
+        row.push_str(&format!(
+            "| [{}]({}) | {} |",
+            applet.name, applet.repo, applet.description
+        ));
+
+        match applet.image {
+            Some(image) => {
+                row.push_str(&format!(
+                    " <img src=\"{}\" alt=\"{}\" width=\"200\"/> |\n",
+                    image, applet.name
+                ));
+            }
+            None => row.push_str(" |\n"),
+        }
+
         readme.push_str(&row);
     }
 

@@ -1,3 +1,5 @@
+#![enable(implicit_some)]
+
 Applications(
   list: [
     (
