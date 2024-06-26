@@ -18,7 +18,7 @@ A collection of COSMIC projects developed by the community.
 | [cosmic-applet-emoji-selector](https://github.com/leb-kuchen/cosmic-applet-emoji-selector) | Emoji selector | <img src="https://iili.io/JUazV7j.png" alt="cosmic-applet-emoji-selector" width="200"/> |
 | [cosmic-noise](https://github.com/bq-wrongway/cosmic-noise) | Applet for playing background noise | |
 | [cosmic-applet-ollama](https://github.com/elevenhsoft/cosmic-applet-ollama) | Applet for Ollama | <img src="https://raw.githubusercontent.com/elevenhsoft/cosmic-ext-applet-ollama/main/screenshots/chat.png" alt="cosmic-applet-ollama" width="200"/> |
-| [cosmic-ext-applet-external-monitor-brightness](https://github.com/maciekk64/cosmic-ext-applet-external-monitor-brightness) | External Monitor Brightness Applet for the COSMIC™ desktop | <img src="https://raw.githubusercontent.com/maciekk64/cosmic-ext-applet-external-monitor-brightness/master/data/screenshot1.png" alt="cosmic-ext-applet-external-monitor-brightness" width="200"/> |
+| [cosmic-ext-applet-external-monitor-brightness](https://github.com/maciekk64/cosmic-ext-applet-external-monitor-brightness) | Change brightness of external monitors via DDC/CI protocol | <img src="https://raw.githubusercontent.com/maciekk64/cosmic-ext-applet-external-monitor-brightness/master/res/screenshot1.png" alt="cosmic-ext-applet-external-monitor-brightness" width="200"/> |
 
 ## Themes
 | Name | Description | Image |
