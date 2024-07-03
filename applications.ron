@@ -25,6 +25,12 @@ Applications(
       description: "A color picker for COSMIC.",
       repo: "https://github.com/PixelDoted/cosmic-color-picker",
       image: "https://raw.githubusercontent.com/PixelDoted/cosmic-color-picker/main/preview.png"
+    ),
+    (
+      name: "oboete",
+      description: "A simple flashcards application for the COSMIC™ desktop.",
+      repo: "https://github.com/mariinkys/oboete",
+      image: "https://raw.githubusercontent.com/mariinkys/oboete/main/res/screenshots/study-dark.png"
     )
   ]
 )
