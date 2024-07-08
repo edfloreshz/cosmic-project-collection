@@ -3,10 +3,10 @@
 Applications(
   list: [
     (
-      name: "orderly",
+      name: "tasks",
       description: "A simple task management application for the COSMIC desktop.",
-      repo: "https://github.com/edfloreshz/orderly",
-      image: "https://raw.githubusercontent.com/edfloreshz/orderly/main/res/screenshots/window-light.png"
+      repo: "https://github.com/edfloreshz/tasks",
+      image: "https://raw.githubusercontent.com/edfloreshz/tasks/main/res/screenshots/window-light.png"
     ),
     (
       name: "fan-control",
