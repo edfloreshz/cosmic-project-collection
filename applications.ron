@@ -31,6 +31,12 @@ Applications(
       description: "A simple flashcards application for the COSMIC™ desktop.",
       repo: "https://github.com/mariinkys/oboete",
       image: "https://raw.githubusercontent.com/mariinkys/oboete/main/res/screenshots/study-dark.png"
+    ),
+    (
+      name: "starry-dex",
+      description: "Pokédex application for the COSMIC™ desktop.",
+      repo: "https://github.com/mariinkys/starrydex",
+      image: "https://raw.githubusercontent.com/mariinkys/starrydex/main/screenshots/pokemon.png"
     )
   ]
 )
