@@ -1,0 +1,11 @@
+#![enable(implicit_some)]
+
+Services(
+  list: [
+    (
+      name: "COSMIC Background Wallpaper",
+      description: "Unofficial service for syncing the theme with the wallpaper for the COSMIC™ desktop",
+      repo: "https://github.com/wash2/cosmic_ext_bg_theme",
+    )
+  ]
+)
