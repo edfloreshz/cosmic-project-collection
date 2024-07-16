@@ -36,17 +36,32 @@ struct Theme {
 
 #[derive(Debug, Serialize, Deserialize)]
 struct Themes {
-    list: Vec<Application>,
+    list: Vec<Theme>,
+}
+
+#[derive(Debug, Serialize, Deserialize)]
+struct Service {
+    name: String,
+    description: String,
+    repo: String,
+    image: Option<String>,
+}
+
+#[derive(Debug, Serialize, Deserialize)]
+struct Services {
+    list: Vec<Service>,
 }
 
 fn main() -> anyhow::Result<()> {
     let applications_data = include_str!("../applications.ron");
     let applets_data = include_str!("../applets.ron");
     let themes_data = include_str!("../themes.ron");
+    let services_data = include_str!("../services.ron");
     let mut readme = String::new();
     let applications: Applications = ron::from_str(applications_data).unwrap();
     let applets: Applets = ron::from_str(applets_data).unwrap();
     let themes: Themes = ron::from_str(themes_data).unwrap();
+    let services: Services = ron::from_str(services_data).unwrap();
 
     readme.push_str("# COSMIC Project Collection\n");
     readme.push_str("A collection of COSMIC projects developed by the community.\n\n");
@@ -54,6 +69,7 @@ fn main() -> anyhow::Result<()> {
     write_applications(&mut readme, applications);
     write_applets(&mut readme, applets);
 
+    write_services(&mut readme, services);
     write_themes(&mut readme, themes);
 
     readme.push_str("\n## How to add your project?\n");
@@ -139,6 +155,34 @@ fn write_themes(readme: &mut String, themes: Themes) {
                 row.push_str(&format!(
                     " <img src=\"{}\" alt=\"{}\" width=\"200\"/> |\n",
                     image, applet.name
+                ));
+            }
+            None => row.push_str(" |\n"),
+        }
+
+        readme.push_str(&row);
+    }
+}
+
+fn write_services(readme: &mut String, services: Services) {
+    readme.push_str("\n## Services\n");
+
+    readme.push_str("| Name | Description | Image |\n");
+    readme.push_str("|---|---|---|\n");
+
+    for service in services.list {
+        let mut row = String::new();
+
+        row.push_str(&format!(
+            "| [{}]({}) | {} |",
+            service.name, service.repo, service.description
+        ));
+
+        match service.image {
+            Some(image) => {
+                row.push_str(&format!(
+                    " <img src=\"{}\" alt=\"{}\" width=\"200\"/> |\n",
+                    image, service.name
                 ));
             }
             None => row.push_str(" |\n"),
