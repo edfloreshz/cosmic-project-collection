@@ -37,6 +37,12 @@ Applications(
       description: "Pokédex application for the COSMIC™ desktop.",
       repo: "https://github.com/mariinkys/starrydex",
       image: "https://raw.githubusercontent.com/mariinkys/starrydex/main/screenshots/pokemon.png"
+    ),
+    (
+      name: "cosmic-dirstat",
+      description: "KDirStat-esque disk usage analyzer using the libcosmic toolkit.",
+      repo: "https://github.com/Koranir/cosmic-dirstat",
+      image: "https://raw.githubusercontent.com/Koranir/cosmic-dirstat/master/img/screenshot.png"
     )
   ]
 )
