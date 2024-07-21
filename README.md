@@ -11,6 +11,7 @@ A collection of COSMIC projects developed by the community.
 | [oboete](https://github.com/mariinkys/oboete) | A simple flashcards application for the COSMIC™ desktop. | <img src="https://raw.githubusercontent.com/mariinkys/oboete/main/res/screenshots/study-dark.png" alt="oboete" width="200"/> |
 | [starry-dex](https://github.com/mariinkys/starrydex) | Pokédex application for the COSMIC™ desktop. | <img src="https://raw.githubusercontent.com/mariinkys/starrydex/main/screenshots/pokemon.png" alt="starry-dex" width="200"/> |
 | [cosmic-dirstat](https://github.com/Koranir/cosmic-dirstat) | KDirStat-esque disk usage analyzer using the libcosmic toolkit. | <img src="https://raw.githubusercontent.com/Koranir/cosmic-dirstat/master/img/screenshot.png" alt="cosmic-dirstat" width="200"/> |
+| [cosmic-weather](https://github.com/jwestall/cosmic-weather) | A simple weather application for the COSMIC™ Desktop | <img src="https://raw.githubusercontent.com/jwestall/cosmic-weather/main/screenshots/window.png" alt="cosmic-weather" width="200"/> |
 
 ## Applets
 | Name | Description | Image |
