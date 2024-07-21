@@ -43,6 +43,12 @@ Applications(
       description: "KDirStat-esque disk usage analyzer using the libcosmic toolkit.",
       repo: "https://github.com/Koranir/cosmic-dirstat",
       image: "https://raw.githubusercontent.com/Koranir/cosmic-dirstat/master/img/screenshot.png"
+    ),
+    (
+      name: "cosmic-weather",
+      description: "A simple weather application for the COSMIC™ Desktop",
+      repo: "https://github.com/jwestall/cosmic-weather",
+      image: "https://raw.githubusercontent.com/jwestall/cosmic-weather/main/screenshots/window.png"
     )
   ]
 )
