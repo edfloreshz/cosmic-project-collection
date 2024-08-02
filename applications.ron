@@ -49,6 +49,12 @@ Applications(
       description: "A simple weather application for the COSMIC™ Desktop",
       repo: "https://github.com/jwestall/cosmic-weather",
       image: "https://raw.githubusercontent.com/jwestall/cosmic-weather/main/screenshots/window.png"
-    )
+    ),
+    (
+      name: "cosmic-ext-2048",
+      description: "A 2048 game written in libcosmic and Rust",
+      repo: "https://github.com/Kartonrealista/cosmic-ext-2048",
+      image: "https://raw.githubusercontent.com/Kartonrealista/cosmic-ext-2048/main/screenshots/s1.png"
+    ),
   ]
 )
