@@ -1,0 +1,11 @@
+#![enable(implicit_some)]
+
+Scripts(
+  list: [
+    (
+      name: "pywal-cosmic-term",
+      description: "Python script to use your pywal generated color palette with cosmic-term",
+      repo: "https://github.com/dharmik2319/pywal-cosmic-term",
+    )
+  ]
+)
