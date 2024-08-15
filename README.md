@@ -36,5 +36,10 @@ A collection of COSMIC projects developed by the community.
 |---|---|---|
 | [catppuccin](https://github.com/catppuccin/cosmic-desktop) | Soothing pastel theme for COSMIC Desktop Environment | <img src="https://raw.githubusercontent.com/catppuccin/cosmic-desktop/main/assets/preview.webp" alt="catppuccin" width="200"/> |
 
+## Scripts
+| Name | Description | Image |
+|---|---|---|
+| [pywal-cosmic-term](https://github.com/dharmik2319/pywal-cosmic-term) | Python script to use your pywal generated color palette with cosmic-term | |
+
 ## How to add your project?
 To add your project to this list, please open a pull request with your project added to the `applications.ron` or `applets.ron` file.
