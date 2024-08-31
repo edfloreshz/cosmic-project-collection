@@ -26,6 +26,7 @@ A collection of COSMIC projects developed by the community.
 | [cosmic-applet-ollama](https://github.com/elevenhsoft/cosmic-applet-ollama) | Applet for Ollama | <img src="https://raw.githubusercontent.com/elevenhsoft/cosmic-ext-applet-ollama/main/screenshots/chat.png" alt="cosmic-applet-ollama" width="200"/> |
 | [cosmic-ext-applet-external-monitor-brightness](https://github.com/maciekk64/cosmic-ext-applet-external-monitor-brightness) | Change brightness of external monitors via DDC/CI protocol | <img src="https://raw.githubusercontent.com/maciekk64/cosmic-ext-applet-external-monitor-brightness/master/res/screenshot1.png" alt="cosmic-ext-applet-external-monitor-brightness" width="200"/> |
 | [cosmic-applet-minimon](https://github.com/Hyperchaotic/minimon-applet) | Applet for displaying CPU and RAM utilization | <img src="https://raw.githubusercontent.com/Hyperchaotic/minimon-applet/main/cosmic-applet-minimon.png" alt="cosmic-applet-minimon" width="200"/> |
+| [cosmic-ext-applet-system-monitor](https://github.com/D-Brox/cosmic-ext-applet-system-monitor) | Configurable system monitor applet | <img src="https://github.com/D-Brox/cosmic-ext-applet-system-monitor/raw/master/res/screenshot.png" alt="cosmic-ext-applet-system-monitor" width="200"/> |
 
 ## Services
 | Name | Description | Image |
