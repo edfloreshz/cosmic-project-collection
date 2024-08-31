@@ -48,6 +48,12 @@ Applets(
       description: "Applet for displaying CPU and RAM utilization",
       repo: "https://github.com/Hyperchaotic/minimon-applet",
       image: "https://raw.githubusercontent.com/Hyperchaotic/minimon-applet/main/cosmic-applet-minimon.png"
+    ),
+    (
+      name: "cosmic-ext-applet-system-monitor",
+      description: "Configurable system monitor applet",
+      repo: "https://github.com/D-Brox/cosmic-ext-applet-system-monitor",
+      image: "https://github.com/D-Brox/cosmic-ext-applet-system-monitor/raw/master/res/screenshot.png"
     )
   ]
 )
