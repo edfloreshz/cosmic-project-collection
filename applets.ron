@@ -54,6 +54,12 @@ Applets(
       description: "Configurable system monitor applet",
       repo: "https://github.com/D-Brox/cosmic-ext-applet-system-monitor",
       image: "https://github.com/D-Brox/cosmic-ext-applet-system-monitor/raw/master/res/screenshot.png"
+    ),
+    (
+      name: "cosmic-ext-applet-gamemode-status",
+      description: "GameMode status applet",
+      repo: "https://github.com/D-Brox/cosmic-ext-applet-gamemode-status",
+      image: "https://raw.githubusercontent.com/D-Brox/cosmic-ext-applet-gamemode-status/main/res/screenshot1.png"
     )
   ]
 )
