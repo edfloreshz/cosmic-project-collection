@@ -51,10 +51,10 @@ Applications(
       image: "https://raw.githubusercontent.com/Koranir/cosmic-dirstat/master/img/screenshot.png"
     ),
     (
-      name: "cosmic-weather",
+      name: "forecast",
       description: "A simple weather application for the COSMIC™ Desktop",
-      repo: "https://github.com/jwestall/cosmic-weather",
-      image: "https://raw.githubusercontent.com/jwestall/cosmic-weather/main/screenshots/window.png"
+      repo: "https://github.com/cosmic-utils/forecast",
+      image: "https://raw.githubusercontent.com/cosmic-utils/forecast/main/screenshots/window.png"
     ),
     (
       name: "cosmic-ext-2048",
