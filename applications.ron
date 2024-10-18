@@ -61,6 +61,12 @@ Applications(
       description: "A 2048 game written in libcosmic and Rust",
       repo: "https://github.com/Kartonrealista/cosmic-ext-2048",
       image: "https://raw.githubusercontent.com/Kartonrealista/cosmic-ext-2048/main/screenshots/s1.png"
+    ),
+    (
+      name: "cosmicding",
+      description: "linkding companion app for COSMIC™",
+      repo: "https://github.com/vkhitrin/cosmicding",
+      image: "https://raw.githubusercontent.com/vkhitrin/cosmicding/main/res/screenshots/bookmarks.png"
     )
   ]
 )
