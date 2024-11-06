@@ -14,6 +14,7 @@ A collection of COSMIC projects developed by the community.
 | [cosmic-dirstat](https://github.com/Koranir/cosmic-dirstat) | KDirStat-esque disk usage analyzer using the libcosmic toolkit. | <img src="https://raw.githubusercontent.com/Koranir/cosmic-dirstat/master/img/screenshot.png" alt="cosmic-dirstat" width="200"/> |
 | [forecast](https://github.com/cosmic-utils/forecast) | A simple weather application for the COSMIC™ Desktop | <img src="https://raw.githubusercontent.com/cosmic-utils/forecast/main/screenshots/window.png" alt="forecast" width="200"/> |
 | [cosmic-ext-2048](https://github.com/Kartonrealista/cosmic-ext-2048) | A 2048 game written in libcosmic and Rust | <img src="https://raw.githubusercontent.com/Kartonrealista/cosmic-ext-2048/main/screenshots/s1.png" alt="cosmic-ext-2048" width="200"/> |
+| [cosmicding](https://github.com/vkhitrin/cosmicding) | linkding companion app for COSMIC™ | <img src="https://raw.githubusercontent.com/vkhitrin/cosmicding/main/res/screenshots/bookmarks.png" alt="cosmicding" width="200"/> |
 
 ## Applets
 | Name | Description | Image |
