@@ -67,6 +67,12 @@ Applications(
       description: "linkding companion app for COSMIC™",
       repo: "https://github.com/vkhitrin/cosmicding",
       image: "https://raw.githubusercontent.com/vkhitrin/cosmicding/main/res/screenshots/bookmarks.png"
-    )
+    ),
+    (
+      name: "bodev",
+      description: "Low level dev tools",
+      repo: "https://gitlab.com/sgued/bodev",
+      image: "https://bodev.sgued.fr/screenshot-ascii-light.png",
+    ),
   ]
 )
